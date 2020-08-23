@@ -1,0 +1,132 @@
+.popup-mrgn{
+  margin: 255px 0px;
+}
+.rectangle {
+    height: 220px;
+    width: 500px;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.1);
+  }
+
+  .add-new-tag-master {
+    height: 16px;
+    /* width: 200px; */
+    color: #000000;
+    /* font-family: Gotham; */
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.07px;
+    line-height: 19px;
+    padding: 14px;
+  }
+
+  .line-19 {
+    box-sizing: border-box;
+    height: 1px;
+    width: 498px;
+    border: 1px solid #E6E8F1;
+    margin-top: 20px;
+  }
+
+  .forms-input-copy-6 {
+    height: 62px;
+    width: 460px;
+  }
+
+  .label {
+    height: 19px;
+    width: 280.32px;
+    color: #EE3E56;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+  }
+
+  .forms-input-base {
+    box-sizing: border-box;
+    height: 36px;
+    width: 460px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+  }
+
+  input.input-label::placeholder {
+    height: 19px;
+    width: 82px;
+    color: #a0a0a0;
+    
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+  }
+
+  .input-value {
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+  }
+
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1040;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    opacity: .5;
+  }
+
+  .canxel-buttons-label {
+    height: 19px;
+    width: 43px;
+    color: #FFFFFF;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+  }
+
+  .cancel-mask {
+    height: 36px;
+    width: 89px;
+    border-radius: 4px;
+    background-color: #585858;
+  }
+
+  .add-buttons-label {
+    height: 19px;
+    width: 29.65px;
+    color: #FFFFFF;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+  }
+
+  .add-mask {
+    height: 36px;
+    width: 80px;
+    border-radius: 4px;
+    background-color: #EE3E56;
+  }
+
+  .brdr {
+    border-style: none;
+  }
+
+  .linkt0 {
+    border-style: none;
+    color: white;
+  }
+

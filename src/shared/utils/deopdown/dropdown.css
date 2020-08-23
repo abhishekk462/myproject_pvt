@@ -1,0 +1,63 @@
+ /* DROPDOWN STYLES */
+ .dropdown-base {
+    box-sizing: border-box;
+    height: 36px;
+    width: 367px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+  }
+
+  .dropdown-label {
+    /* height: 19px; */
+    width: 360pxpx;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+    padding: 7px;
+    
+  }
+
+  .dd-brdr {
+    border-style: none;
+    width: 355px;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+    /* padding: 7px; */
+    
+  }
+
+  .arrow-down-icon {
+    height: 16px;
+    width: 16px;
+  }
+
+  .dd-list {
+    border-style: none;
+    box-sizing: border-box;
+    height: auto;
+    width: 367px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    margin-top: 20px;
+  }
+
+  .dd-list-item {
+    height: 36px;
+    width: 347px;
+    list-style: none;
+    background-color: #FFFFFF;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-top: 20px;
+  }
+  

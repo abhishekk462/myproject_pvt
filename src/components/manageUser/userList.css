@@ -1,0 +1,312 @@
+.user-top-section {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    background-color: #FAFBFD;
+    height: 109px;
+    box-shadow: 0px 0 0 0 #fff, 0px 0 0 0 #fff, 0 1px 0 0 #D7E1EA, 0 -1px 0 0 #fff;
+    align-items: center;
+  }
+
+  .sect-width {
+      min-width: 1240px;
+  }
+  
+  .user-header {
+    height: 28px;
+    width: 197px;
+    color: #000000;
+    /* font-family: Gotham; */
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: -0.12px;
+    line-height: 34px;
+    margin: 0px 15px 0px 50px;
+  }
+
+  .user-add-button-label {
+    height: 22px;
+    width: 53px;
+    color: #FFFFFF;
+    /* font-family: "Nunito Sans"; */
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-align: center;
+    margin-left: 10px;
+}
+.user-add-btn-mask {
+    height: 40px;
+    width: 110px;
+    border-radius: 4px;
+    background-color: #EE3E56;
+}
+
+.user-role-button-label {
+    height: 22px;
+    width: 103px;
+    color: #FFFFFF;
+    /* font-family: "Nunito Sans"; */
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.user-add-role-mask {
+    height: 40px;
+    width: 140px;
+    border-radius: 4px;
+    background-color: #585858;
+}
+
+/* table header */
+.user-table-header {
+  height: 50px;
+  width: 100%;
+  border-radius: 2px 2px 0 0;
+  background-color: #FAFBFD;
+  /* font-family: "Nunito Sans"; */
+  box-shadow: 1px 0 0 0 #D7E1EA, -1px 0 0 0 #D7E1EA, 0 1px 0 0 #D7E1EA, 0 -1px 0 0 #D7E1EA;
+  padding: 10px;
+}
+
+.user-checkbox-rectangle {
+  box-sizing: border-box;
+  height: 16px;
+  width: 5%;
+  /* border: 1px solid #BCBDC0;
+  border-radius: 4px; */
+  /* background-color: #FFFFFF; */
+  margin-bottom: 15px;
+}
+
+.user-checkbox-mrgn {
+  margin-bottom: 15px;
+  margin: 10px 0px 0px 10px;
+}
+.th-user-id {
+    height: 22px;
+    width: 10%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+
+  .th-user-name {
+    height: 22px;
+    width: 11%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+
+  .th-user-email {
+    height: 22px;
+    width: 15%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+
+  .th-user-role {
+    height: 22px;
+    width: 7%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-align: center;
+  }
+
+  .th-user-creation-date {
+    height: 22px;
+    width: 10%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+
+  .th-user-modified-date {
+    height: 22px;
+    width: 10%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+/* Table body */
+.user-id {
+    height: 22px;
+    width: 58px;
+    color: #EE3E56;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+}
+
+.user-name {
+    height: 20px;
+    width: 94px;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+
+  .user-gmail {
+    height: 22px;
+    width: 167px;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+
+  .user-role {
+    height: 20px;
+    width: 19px;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .user-created-date {
+    height: 20px;
+    width: 82px;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+
+  .user-modified-date {
+    height: 20px;
+    width: 74px;
+    color: #000000;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+
+  .user-actions-title {
+    /* font-family: "Nunito Sans"; */
+    height: 50px;
+    width: 60px;
+    border-radius: 2px 2px 0 0;
+    background-color: #FAFBFD;
+    /* box-shadow: 1px 0 0 0 #D7E1EA, -1px 0 0 0 #D7E1EA, 0 1px 0 0 #D7E1EA, 0 -1px 0 0 #D7E1EA; */
+      
+  }
+
+  
+  .user-qt-actions {
+    height: 22px;
+    width: 32%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-align: right;
+  }
+
+  .user-right-bounds {
+    height: 40px;
+    width: 40px;
+    background-color: #FAFBFD;
+    position: absolute;
+    right: 23px;
+    cursor: pointer;
+}
+
+.user-pagination {
+  margin: auto;
+    width: auto;
+}
+
+.user-action-rectangle {
+  height: 110px;
+  width: 100px;
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 10px 0 #D7D7D7;
+  position: fixed;
+  z-index: 2;
+  /* display: none; */
+  margin-left: -3px;
+  margin-top: -15px;
+  position: absolute;
+  right: 83px;
+}
+
+.user-filter-apply-mask {
+  height: 36px;
+  width: 80px;
+  border-radius: 4px;
+  background-color: #EE3E56;
+  position: absolute;
+  right: 24px;
+}
+
+.user-fltr-cancel-mask {
+  margin-right: 10px;
+  height: 36px;
+  width: 89px;
+  border-radius: 4px;
+  background-color: #585858;
+  margin-left: 100px;
+}
+
+.user-filter-mrgn-btm {
+  margin-bottom: 10px;
+}
+
+.user-fltr-box-list {
+  /* height: 260px; */
+  width: 1180px;
+  position: absolute;
+}
+
+.user-fltr-box-list .user-fltr-mrgn-list::after {
+  content: "";
+  position: absolute;
+  bottom: 81%;
+  left: 52%;
+  margin-left: -200px;
+  border-width: 12px;
+  border-style: solid;
+  box-sizing: border-box;
+  border-color: transparent transparent #FAFBFD #FAFBFD;
+  transform-origin: 0 0;
+  transform: rotate(131deg);
+  box-shadow: -2px 2px 0px 0 rgba(0,56,147,0.1);
+}

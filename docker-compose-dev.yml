@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+
+  cms-service:
+    container_name: adda247-cms-container
+    image: 640458616033.dkr.ecr.ap-south-1.amazonaws.com/cms-app:${version}
+    restart: always
+    ports:
+      - 3001:80

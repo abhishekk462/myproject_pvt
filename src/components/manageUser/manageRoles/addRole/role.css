@@ -1,0 +1,171 @@
+.role-desc-label {
+  height: 19px;
+  width: 182px;
+  color: #495057;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.desc-editor-mrgn {
+  margin-top: 5px;
+}
+
+.add-role-base-bottom {
+  box-sizing: border-box;
+  height: auto;
+  min-height: 254px;
+  width: 1140px;
+  border: 1px solid #BECAD6;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  position: relative;
+  bottom: -25px;
+}
+
+.functionalities-base {
+  box-sizing: border-box;
+  height: 36px;
+  width: 1139px;
+  border: 1px solid #BCBDC0;
+  border-radius: 4px 0 0 0;
+  background-color: #FFFFFF;
+  /* position: absolute; */
+}
+
+.data-placeholder1 {
+  height: 19px;
+  /* width: 160px; */
+  color: #495057;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 10px;
+  left: 8px;
+}
+
+.data-placeholder2 {
+  height: 19px;
+  /* width: 73px; */
+  color: #495057;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 10px;
+  left: 525px;
+}
+
+.func-buttons-box {
+  box-sizing: border-box;
+  height: 36px;
+  width: 46px;
+  border: 1px solid #BCBDC0;
+  background-color: #FAFBFD;
+  position: absolute;
+}
+
+.btn-right1 {
+  right:0px;
+}
+.btn-right2 {
+  right:46px;
+}
+.ul-pad0 {
+  padding: 0px;
+  /* overflow-y: auto; */
+  height: auto;
+  min-height: 216px;
+  width: 1140px;
+}
+
+.img-padding {
+  /* padding: 15px 15px 18px 15px; */
+  margin: 0px 0px 12px 15px;
+} 
+
+.role-dropdown-base {
+  box-sizing: border-box;
+  height: 36px;
+  width: 188px;
+  border: 1px solid #BCBDC0;
+  border-radius: 0 0 0 4px;
+  background-color: #FFFFFF;
+  position: absolute;
+  bottom: 0px;
+  
+}
+
+.role-dropdown-placeholder {
+  /* height: 19px;
+  width: 91px; */
+  color: #A0A0A0;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+input.role-input-placeholder {
+  /* height: 19px;
+  width: 91px; */
+  color: #A0A0A0;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.role-permission-base {
+  box-sizing: border-box;
+  height: 36px;
+  width: 808px;
+  border: 1px solid #BCBDC0;
+  background-color: #FFFFFF;
+  position: absolute;
+  bottom: 0px;
+  right: 142px;
+}
+
+.add-permission-mask {
+  height: 36px;
+  width: 146px;
+  border-radius: 0 0 4px 0;
+  background-color: #EE3E56;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+.add-permission-label {
+  /* height: 19px;
+  width: 101px; */
+  color: #FFFFFF;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+  padding: 8px;
+}
+.func-div {
+  position: relative;
+}
+
+.role-bottom-mrgn {
+
+  margin-top: 165px;
+}
+.permission-dd-mrgn {
+  margin-left: 188px;
+  z-index: 2;
+}
+
+.permission-li-mrgn {
+  margin-bottom: 36px;
+}

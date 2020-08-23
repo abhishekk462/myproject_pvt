@@ -1,0 +1,96 @@
+.add-tag-pad0 {
+    padding: 0px;
+    min-height: 845px;
+    height: auto;
+}
+
+.add-tag-mrgns {
+    position: absolute;
+    margin: 12px 0px 0px 995px;
+}
+
+.exam-master {
+    height: 28px;
+    width: auto;
+    color: #000000;
+    /* font-family: "Gotham"; */
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: -0.12px;
+    line-height: 34px;
+  }
+ 
+  .add-tag-mrgn-tp{
+    margin: 35px 20px 0px 50px;
+  }
+
+.a {
+  text-decoration: none;
+  background-color: transparent;
+  color: #CE1D2C;
+}
+.a:hover {
+  color: #CE1D2C;
+  text-decoration: none;
+}
+
+.al {
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.al:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+  /* Responsive */
+/* @media only screen and (min-device-width:1200px) {
+  .top-section1 {
+    width: 100%;
+  }
+
+  .tag-ma {
+    position: absolute;
+    top: 20px;
+  }
+
+ 
+  .mrgns {
+    margin: 50px 0px 28px 378px;
+    display: flex;  
+  }
+  .add-level-rectangle {
+    width: 733px;
+  }
+  .custom-dd-icon {
+    margin: 0 2px 5px 330px;
+  }
+  .custom-dd-options {
+    width: 345px;
+  }
+  .custom-dd-delete-rectangle {
+    margin: 4px 0 0 286px;
+  }
+
+  .custom-dd-edit-rectangle {
+    margin: 4px 0 0 231px;
+  }
+  .add-level-mask {
+    margin-top: 7px;
+  }
+}
+
+@media screen 
+
+and (min-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 1) {
+} */
+
+.button-disable {
+  opacity: 0.4;
+}
+
+
+  

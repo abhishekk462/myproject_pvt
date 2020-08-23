@@ -1,0 +1,71 @@
+.stage-group {
+    height: 220px;
+    width: 600px;
+  }
+
+  /* .modal-content1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 220px;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: .3rem;
+    outline: 0;
+} */
+
+.line-stage-title {
+    box-sizing: border-box;
+    height: 1px;
+    width: 598px;
+    border: 1px solid #E6E8F1;
+    margin-top: 20px;
+}
+
+.dropdown1, .dropleft, .dropright, .dropup {
+    position: relative;
+    margin-left: 280px;
+}
+
+.qt-input-base1 {
+    box-sizing: border-box;
+    height: 36px;
+    width: 265px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.stage-add-mrgns {
+    margin: 40px 0px 15px 390px;
+}
+
+.stage-option-base {
+    box-sizing: border-box;
+    /* height: 36px; */
+    width: 265px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 50px;
+    padding: 0px;
+}
+
+.stage-option-base1 {
+    box-sizing: border-box;
+    /* height: 36px; */
+    width: 265px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 50px;
+    padding: 0px;
+    z-index: 2;
+}

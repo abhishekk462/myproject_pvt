@@ -1,0 +1,46 @@
+.exam-header {
+    height: 28px;
+    width: 153px;
+    color: #000000;
+    /* font-family: Gotham; */
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: -0.12px;
+    line-height: 34px;
+    margin: 0px -25px 0px 50px;
+}
+
+.exam-description {
+    height: 22px;
+    width: 25%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+}
+
+.exam-created {
+    height: 22px;
+    width: 15%;
+    color: #585858;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+}
+
+.exam-td-edit {
+    height: 22px;
+    width: 26px;
+    color: #3A3A3C;
+    /* font-family: "Noto Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-align: right;
+    margin-left: 14px;
+    padding-top: 10px;
+}

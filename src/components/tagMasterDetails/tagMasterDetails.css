@@ -1,0 +1,283 @@
+.top-section1 {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  background-color: #FAFBFD;
+  height: 109px;
+  box-shadow: 0px 0 0 0 #fff, 0px 0 0 0 #fff, 0 1px 0 0 #D7E1EA, 0 -1px 0 0 #fff;
+  align-items: center;
+  padding: 0px;
+}
+
+.tag-ma {
+  height: 26px;
+  width: 166px;
+  color: #CE1D2C;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.exam-ma {
+  height: 26px;
+  width: 166px;
+  color: #5E5E5E;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.icn-edit {
+  height: 16px;
+  width: 16px;
+  margin: 5px 5px 5px 12px;
+} 
+
+.edit {
+  height: 26px;
+  width: 25px;
+  color: #CE1D2C;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.title-mrgn {
+    margin-left: 50px;
+}
+
+.add-level-rectangle {
+  box-sizing: border-box;
+  height: 51px;
+  width: 1141px;
+  border: 1px solid #E3EAF0;
+  background-color: #FAFBFD;
+}
+
+.add-level-btn {
+  height: 36px;
+  width: 507px;
+}
+
+.side-buttons-label {
+  height: 19px;
+  width: 338px;
+  color: #585858;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 20px;
+}
+
+.add-level-buttons-label {
+  height: 19px;
+  width: 98px;
+  color: #FFFFFF;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+}
+
+.add-level-mask {
+  height: 36px;
+  width: 150px;
+  border-radius: 4px;
+  background-color: #EE3E56;
+}
+
+/* topbar buttons */
+.mrgns1 {
+  
+  display: flex;
+  /* margin: 50px 5px 25px 659px; */
+  right: 36px;
+  position: absolute;
+
+}
+
+.lft{
+    margin-left: 10px;
+}
+
+.dd-show {
+    display: flex;
+}
+
+.add-btn-mrgn {
+    margin-left: 20px;
+}
+
+.add-btn-wdt {
+    width: auto;
+}
+
+/* Dropdown customization */
+.custom-dd-base {
+  box-sizing: border-box;
+  height: 36px;
+  width: 367px;
+  border: 1px solid #BCBDC0;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+}
+
+.custom-dd-label {
+  height: 19px;
+  width: auto;
+  
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  margin: 8px;
+}
+
+.custom-dd-label-light {
+  color: #A0A0A0;
+}
+
+.custom-dd-label-dark {
+  color: #000000;
+}
+
+.custom-dd-icon {
+  /* transform: rotate(90deg);
+  transform: rotate(90deg);    */
+  vertical-align: middle;
+  margin: 0px 0px 10px 340px;
+}
+
+.custom-dd-options {
+  box-sizing: border-box;
+  /* height: 114px; */
+  width: 367px;
+  border: 1px solid #BCBDC0;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  margin-top: 4px;
+  z-index: 10;
+  position: absolute;
+}
+
+.custom-option-group {
+  height: 28px;
+  width: 347px;
+}
+
+.custom-dd-option-label {
+  height: 28px;
+  width: auto;
+  color: #000000;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  margin-left: 8px;
+}
+
+.custom-dd-edit-rectangle {
+  box-sizing: border-box;
+  height: 20px;
+  width: 51px;
+  border: 1px solid #585858;
+  border-radius: 2px;
+  background-color: #FFFFFF;
+  margin: 4px 0px 0px 241px;
+    position: absolute;
+
+}
+
+.custom-dd-delete-rectangle {
+  box-sizing: border-box;
+  height: 20px;
+  width: 55px;
+  border: 1px solid #585858;
+  border-radius: 2px;
+  background-color: #FFFFFF;
+  position: absolute;
+    margin:4px 0px 0px 298px;
+}
+
+.custon-dd-btn-text {
+  /* height: 16px;
+  width: 35px; */
+  color: #585858;
+  /* font-family: "Nunito Sans"; */
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+  text-align: center;
+}
+
+.edit-tag-mrgn-tp{
+  margin: 35px 20px 0px 50px;
+}
+
+.tag-details-title-edit {
+  height: 26px;
+  width: 25px;
+  color: #CE1D2C;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  margin: 10px 10px 10px 32px;
+}
+
+.edit-icn-pos {
+  position: absolute;
+}
+
+
+/* Responsive */
+/* @media only screen and (min-device-width:1200px) {
+  .top-section1 {
+    width: 100%;
+  }
+
+  .add-tag-mrgns {
+    margin: 12px 0 0 605px;
+  }
+
+  .add-level-rectangle {
+    width: 733px;
+  }
+  .custom-dd-icon {
+    margin: 0 2px 5px 330px;
+  }
+  .custom-dd-options {
+    width: 353px;
+  }
+  .custom-dd-delete-rectangle {
+    margin: 4px 0 0 292px;
+  }
+
+  .custom-dd-edit-rectangle {
+    margin: 4px 0 0 236px;
+  }
+}
+
+@media screen 
+and (min-device-width: 1200px) 
+and (min-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 1) {
+} */
+
+.button-disable {
+  opacity: 0.4;
+}

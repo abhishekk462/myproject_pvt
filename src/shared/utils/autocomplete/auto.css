@@ -1,0 +1,49 @@
+.il-content-id-base1 {
+    box-sizing: border-box;
+    height: 36px;
+    width: 308px;
+    border: 1px solid #BCBDC0;
+    border-radius: 0 0 0 4px;
+    background-color: #FFFFFF;
+    padding: 15px;
+    position: absolute;
+  }
+
+  .il-content-type-id1 {
+    /* height: 19px;
+    width: 105px; */
+    color: #A0A0A0;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+  }
+  .div-pos {
+      position: relative;
+  }
+
+  .custom-dd-options1 {
+    box-sizing: border-box;
+    /* height: 114px; */
+    width: 311px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    margin-top: -5px;
+    z-index: 10;
+    position: absolute;
+    padding: 0px;
+}
+
+.custom-dd-option-label1 {
+  height: 28px;
+  width: auto;
+  color: #000000;
+  /* font-family: "Nunito Sans"; */
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+  /* position: absolute; */
+  margin-left: 14px;
+}
+  

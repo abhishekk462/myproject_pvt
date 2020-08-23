@@ -1,0 +1,60 @@
+
+  .filter-options-base ul li {
+    list-style: none;
+    display: flex;
+  }
+
+  .filter-options-base {
+    box-sizing: border-box;
+    height: auto;
+    width: 173px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    margin-top: 5px;
+    position: absolute;
+    z-index: 2;
+  }
+  .filter-options-base ol, ul, dl {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+
+  .cb-rectangle {
+    box-sizing: border-box;
+    height: 16px;
+    width: 16px;
+    border: 1px solid #BCBDC0;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    margin: 0px 0px 0px -35px;
+  }
+
+  .dd-icon {
+    float: right;
+    margin: 8px 10px 5px 5px;
+  }
+
+  .fltr-placeholder {
+    height: 19px;
+    width: auto;
+    color: #495057;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin: 8px 0px 0px 30px;
+    position: absolute;
+  }
+
+  .fltr-placeholder-active {
+    height: 19px;
+    width: auto;
+    color: #EE3E56;
+    /* font-family: "Nunito Sans"; */
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin: 8px 0px 0px 30px;
+    position: absolute;
+  }

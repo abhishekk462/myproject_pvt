@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family:"Gotham","Nunito Sans";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+code {
+  font-family: "Gotham","Nunito Sans"
+    monospace;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus
+option:focus
+button:focus {
+    outline: none;
+}
+
+/*Gotham font family*/
+@font-face {
+  font-family: "Gotham";
+  src: url("./Assets/Fonts/Gotham/Gotham-Black.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-Bold.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-ThinIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-BoldIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-BlackIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-BookIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-Book.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-Light.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-LightIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-Medium.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-MediumIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-Thin.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-UltraIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-UltraIta.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-XLight.otf") format('otf'),
+  url("./Assets/Fonts/Gotham/Gotham-XLightIta.otf") format('otf')
+}
+
+/*Nunito Sansfont family*/
+@font-face {
+  font-family: "Nunito Sans";
+  src: url("./Assets/Fonts/NunitoSans/NunitoSans-Regular.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-Bold.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-Italic.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-BoldItalic.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-ExtraBold.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-ExtraBoldItalic.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-ExtraLight.ttf") format('ttf') 
+    url("./Assets/Fonts/NunitoSans/NunitoSans-ExtraLightItalic.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-Light.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-LightItalic.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-Black.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-SemiBold.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-SemiBoldItalic.ttf") format('ttf')
+    url("./Assets/Fonts/NunitoSans/NunitoSans-BlackItalic.ttf") format('ttf')
+}

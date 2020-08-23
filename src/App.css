@@ -1,0 +1,26 @@
+
+.app {
+  width: auto;
+  /* height: 100vh; */
+  /* background-color: white; */
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  border-right: 77.95px solid black;
+  border-left: 77.95px solid black;
+
+}
+
+.rectangle {
+  height: 709px;
+  width: 1440px;
+
+}
+
+
+
+
+
+
+

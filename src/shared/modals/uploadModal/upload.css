@@ -1,0 +1,14 @@
+.label-note {
+    height: 16px;
+    width: 189px;
+    color: #495057;
+    /* font-family: "Nunito Sans"; */
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: 10px;
+  }
+
+  .upload-mgrn {
+      margin-top: 10px;
+  }
